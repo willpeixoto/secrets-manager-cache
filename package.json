@@ -1,0 +1,14 @@
+{
+  "name": "secrets-manager-cache",
+  "version": "1.0.0",
+  "description": "cache the response from aws-secrets-manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "aws-sdk": "^2.1074.0"
+  }
+}

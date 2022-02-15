@@ -1,0 +1,1 @@
+export { SecretsManagerCache } from "./cacheSecretsManager";
